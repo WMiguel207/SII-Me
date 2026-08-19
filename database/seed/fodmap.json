@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Arroz branco",
+    "categoria": "Grãos",
+    "fodmap_score": 0,
+    "porcao": 100,
+    "descricao": "Naturalmente baixo em FODMAPs na porção indicada."
+  },
+  {
+    "nome": "Frango",
+    "categoria": "Proteínas",
+    "fodmap_score": 0,
+    "porcao": 100,
+    "descricao": "Naturalmente sem FODMAPs relevantes."
+  },
+  {
+    "nome": "Leite",
+    "categoria": "Laticínios",
+    "fodmap_score": 8,
+    "porcao": 100,
+    "descricao": "Possui lactose."
+  },
+  {
+    "nome": "Maçã",
+    "categoria": "Frutas",
+    "fodmap_score": 7,
+    "porcao": 100,
+    "descricao": "Contém frutose e sorbitol."
+  },
+  {
+    "nome": "Cebola",
+    "categoria": "Vegetais",
+    "fodmap_score": 9,
+    "porcao": 50,
+    "descricao": "Alta concentração de frutanos."
+  },
+  {
+    "nome": "Alho",
+    "categoria": "Vegetais",
+    "fodmap_score": 9,
+    "porcao": 10,
+    "descricao": "Alta concentração de frutanos."
+  }
+]

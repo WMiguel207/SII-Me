@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Arroz com frango",
+    "descricao": "Arroz branco acompanhado de frango.",
+    "porcoes": 2,
+    "modo_preparo": "Cozinhe o arroz e prepare o frango até estar completamente cozido.",
+    "ingredientes": [
+      {
+        "alimento": "Arroz branco",
+        "quantidade": 200,
+        "unidade": "g"
+      },
+      {
+        "alimento": "Frango",
+        "quantidade": 300,
+        "unidade": "g"
+      }
+    ]
+  },
+  {
+    "nome": "Arroz com cebola",
+    "descricao": "Arroz branco preparado com cebola.",
+    "porcoes": 2,
+    "modo_preparo": "Prepare o arroz e acrescente a cebola durante o preparo.",
+    "ingredientes": [
+      {
+        "alimento": "Arroz branco",
+        "quantidade": 200,
+        "unidade": "g"
+      },
+      {
+        "alimento": "Cebola",
+        "quantidade": 50,
+        "unidade": "g"
+      }
+    ]
+  },
+  {
+    "nome": "Arroz com alho",
+    "descricao": "Arroz branco preparado com alho.",
+    "porcoes": 2,
+    "modo_preparo": "Prepare o arroz e acrescente o alho durante o preparo.",
+    "ingredientes": [
+      {
+        "alimento": "Arroz branco",
+        "quantidade": 200,
+        "unidade": "g"
+      },
+      {
+        "alimento": "Alho",
+        "quantidade": 10,
+        "unidade": "g"
+      }
+    ]
+  },
+  {
+    "nome": "Frango com maçã",
+    "descricao": "Frango acompanhado de maçã.",
+    "porcoes": 1,
+    "modo_preparo": "Prepare o frango e sirva acompanhado da maçã.",
+    "ingredientes": [
+      {
+        "alimento": "Frango",
+        "quantidade": 150,
+        "unidade": "g"
+      },
+      {
+        "alimento": "Maçã",
+        "quantidade": 100,
+        "unidade": "g"
+      }
+    ]
+  },
+  {
+    "nome": "Leite com maçã",
+    "descricao": "Leite acompanhado de maçã.",
+    "porcoes": 1,
+    "modo_preparo": "Sirva o leite acompanhado da maçã.",
+    "ingredientes": [
+      {
+        "alimento": "Leite",
+        "quantidade": 200,
+        "unidade": "ml"
+      },
+      {
+        "alimento": "Maçã",
+        "quantidade": 100,
+        "unidade": "g"
+      }
+    ]
+  }
+]

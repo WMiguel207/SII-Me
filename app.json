@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "meu-projeto",
-    "slug": "meu-projeto",
+    "name": "SII-Me",
+    "slug": "SII-Me",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,10 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/splash.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
   }
 }
